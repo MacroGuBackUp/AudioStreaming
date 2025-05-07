@@ -17,6 +17,11 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		}
+		},
+		{
+			"Name": "AWSPlugin",
+			"Enabled": true,
+			"MarketplaceURL": ""
+		}	
 	]
 }

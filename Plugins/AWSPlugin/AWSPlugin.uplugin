@@ -1,0 +1,29 @@
+{
+	"FileVersion": 1,
+	"Version": 1,
+	"VersionName": "0.0.1",
+	"FriendlyName": "AWSPlugin",
+	"Description": "Protocol Buffers",
+	"Category": "Networking",
+	"CreatedBy": "Tangha Technologies",
+	"CreatedByURL": "https://www.Tangha.com/",
+	"DocsURL": "",
+	"MarketplaceURL" : "",
+	"SupportURL": "",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "AWSPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"Windows"
+	]	
+}
